@@ -1,0 +1,7 @@
+business\DiakIro.class
+Controller\JakartaEE9Resource.class
+model\Diak.class
+com\progmod\beadando\JakartaRestConfiguration.class
+business\Tagozat.class
+business\iDiak.class
+Service\xmlBeolvas.class
